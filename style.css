@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    font:12px aria,verdana,sans-serif
+}
+table,tr{
+    border:solid 1px grey;
+    text-align:center;
+    padding:0;
+    border-collapse:collapse}table{width:95%;margin:0 auto}td{border:dotted 1px #000;margin:0;
+    padding:0;
+    min-width:4%}tr:nth-child(even){background-color:#f2f2f2}th{background-color:#000;color:#fff;border:solid 2px #fff}.row{margin:0 auto;
+    width:95%;
+    overflow:auto;
+    padding:2%}.col1{width:20%;
+    float:left;
+    background-color:#f2f2f2;
+    text-align:center;
+    border-radius:10px;
+    padding:1%;
+    box-sizing:border-box}.col2{width:75%;
+    float:left;
+    margin-left:10px;
+    border:solid 2px gray;box-sizing:border-box;
+    border-radius:10px;
+    padding:10px}input[type=number],input[type=text]{width:95%}input[type=submit]{width:40%}textarea{width:95%;
+    resize:none}select{width:95%}button{font:24px sans-serif;
+    width:40px;
+    height:40px;
+    padding:0}ul{text-align:left}h3{text-align:center}form ul{list-style:none}
